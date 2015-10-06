@@ -6,4 +6,4 @@ coding](https://vimeo.com/105955605) of Space Invaders.
 
 Mine took 4 hours :-(
 
-[Live demo here](http://tmroyal.github.io/). Arrow keys move and space fires.
+[Live demo here](http://tmroyal.github.io/javascript-asteroids). Arrow keys move and space fires.
